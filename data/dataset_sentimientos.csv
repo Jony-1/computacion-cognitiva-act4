@@ -1,0 +1,26 @@
+id,archivo,tipo_dato,etiqueta_principal,categoria,confianza,fecha_procesamiento,observaciones
+1,comentario_001.txt,Texto,POSITIVE,Personal,0.859,2026-05-11,Procesado con Hugging Face Inference API
+2,comentario_002.txt,Texto,NEGATIVE,Espera,0.958,2026-04-08,Procesado con Hugging Face Inference API
+3,comentario_003.txt,Texto,POSITIVE,Instalaciones,0.934,2026-04-02,Procesado con Hugging Face Inference API
+4,comentario_004.txt,Texto,POSITIVE,Atención médica,0.906,2026-05-18,Procesado con Hugging Face Inference API
+5,comentario_005.txt,Texto,NEGATIVE,Tecnología,0.767,2026-04-18,Procesado con Hugging Face Inference API
+6,comentario_006.txt,Texto,POSITIVE,General,0.813,2026-04-16,Procesado con Hugging Face Inference API
+7,comentario_007.txt,Texto,NEGATIVE,Procesos,0.744,2026-04-15,Procesado con Hugging Face Inference API
+8,comentario_008.txt,Texto,NEUTRAL,Instalaciones,0.715,2026-04-09,Procesado con Hugging Face Inference API
+9,comentario_009.txt,Texto,POSITIVE,Espera,0.906,2026-05-18,Procesado con Hugging Face Inference API
+10,comentario_010.txt,Texto,NEGATIVE,Facturación,0.9,2026-04-07,Procesado con Hugging Face Inference API
+11,comentario_011.txt,Texto,POSITIVE,Instalaciones,0.784,2026-05-14,Procesado con Hugging Face Inference API
+12,comentario_012.txt,Texto,NEGATIVE,Personal,0.963,2026-05-18,Procesado con Hugging Face Inference API
+13,comentario_013.txt,Texto,POSITIVE,Atención médica,0.955,2026-05-05,Procesado con Hugging Face Inference API
+14,comentario_014.txt,Texto,NEGATIVE,Instalaciones,0.781,2026-04-06,Procesado con Hugging Face Inference API
+15,comentario_015.txt,Texto,NEUTRAL,General,0.585,2026-05-08,Procesado con Hugging Face Inference API
+16,comentario_016.txt,Texto,POSITIVE,Personal,0.819,2026-04-28,Procesado con Hugging Face Inference API
+17,comentario_017.txt,Texto,NEGATIVE,Atención médica,0.803,2026-04-03,Procesado con Hugging Face Inference API
+18,comentario_018.txt,Texto,POSITIVE,Instalaciones,0.89,2026-04-02,Procesado con Hugging Face Inference API
+19,comentario_019.txt,Texto,NEGATIVE,Facturación,0.834,2026-04-06,Procesado con Hugging Face Inference API
+20,comentario_020.txt,Texto,POSITIVE,Espera,0.841,2026-04-14,Procesado con Hugging Face Inference API
+21,comentario_021.txt,Texto,NEGATIVE,Instalaciones,0.877,2026-04-15,Procesado con Hugging Face Inference API
+22,comentario_022.txt,Texto,POSITIVE,General,0.809,2026-05-03,Procesado con Hugging Face Inference API
+23,comentario_023.txt,Texto,NEGATIVE,Procesos,0.8,2026-05-09,Procesado con Hugging Face Inference API
+24,comentario_024.txt,Texto,NEUTRAL,General,0.62,2026-04-02,Procesado con Hugging Face Inference API
+25,comentario_025.txt,Texto,POSITIVE,General,0.876,2026-05-06,Procesado con Hugging Face Inference API

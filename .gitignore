@@ -1,0 +1,27 @@
+# Variables de entorno (contienen el token de la API — NUNCA subir)
+.env
+
+# Entorno virtual de Python
+venv/
+env/
+.venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
